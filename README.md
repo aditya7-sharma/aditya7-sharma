@@ -38,7 +38,7 @@
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aditya-sharma-b92795282" target="_blank">
+  <a href="https://www.linkedin.com/in/adityaks1" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
   <a href="aadityagayatrisharma@gmail.com">
