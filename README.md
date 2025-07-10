@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/6o5Y6H1.gif" alt="Welcome Banner" width="100%" />
+<!--   <img src="https://i.imgur.com/6o5Y6H1.gif" alt="Welcome Banner" width="100%" /> -->
 </p>
 
 <h1 align="center">Hey there! 👋 I'm Aditya Sharma</h1>
